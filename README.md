@@ -3,7 +3,7 @@
 
 A machine learning project that predicts the **ultimate tensile strength (UTS)** of SiC micro-particle reinforced **AZ91 magnesium composites** for application in light-vehicle and aerospace industries. The trained model is served through an interactive Streamlit web app.
 
-
+https://sic-az91-alloy-composite-uts-predictor-amhvyc3bmwzaogadyfx42q.streamlit.app/
 
 ## Background
 
